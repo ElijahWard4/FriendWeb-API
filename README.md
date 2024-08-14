@@ -1,4 +1,10 @@
 FriendWeb-API
+
+
+https://github.com/user-attachments/assets/5746fd96-57a4-461a-a45a-1c27300edfd4
+
+
+
 # Description
 FriendWeb-API is a RESTful API designed for managing users, thoughts, and reactions in a social network-style application. It provides endpoints for creating, retrieving, updating, and deleting users and their thoughts, as well as managing friendships and reactions.
 
